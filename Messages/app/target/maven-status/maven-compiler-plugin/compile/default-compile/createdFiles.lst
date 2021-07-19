@@ -1,0 +1,5 @@
+com\platzi\messages_app\Conexion.class
+com\platzi\messages_app\Message.class
+com\platzi\messages_app\MessageService.class
+com\platzi\messages_app\MessageDAO.class
+com\platzi\messages_app\Menu.class
